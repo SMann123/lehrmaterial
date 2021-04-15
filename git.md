@@ -844,6 +844,10 @@ Die Meldung besagt dann, dass die Identitätsprüfung funktioniert hat, aber ebe
 Shellzugang gewährt wird. Stattdessen sollte es jetzt aber gelingen, dass man zu seinen
 Projekten verbindet und pusht, ohne jedes Mal das Passwort eingeben zu müssen.
 
+Um die geänderte Konfiguration zu Testen mache ich Änderungen an einem Repo
+und versuche dieses hochzuladen.
+
+
 # Eigener Gitserver #
 
 User git anlegen:
